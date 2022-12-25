@@ -1,4 +1,4 @@
-Project done as part of DATA200 course.
+Project done as part of the course DATA200, Fall 2022, Tufts University.
 
 Collaborators: Vanessa Venkataraman and Hanzhen Wang
 
