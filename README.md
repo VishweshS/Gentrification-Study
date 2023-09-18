@@ -20,6 +20,7 @@ Guide to navigate the RMD scripts:
 * Model_Buliding_NY - Modeling process for the New York Metropolitan area
 * Model_Buliding_LA - Modeling process for the Los Angeles Metropolitan area
 <br>
-Note:
-(i) For more details on the project, refer to the [Presentation Deck](https://github.com/VishweshS/Gentrification-Study/blob/main/Presentation%20Deck.pptx) and [Report](https://github.com/VishweshS/Gentrification-Study/blob/main/Report.pdf)
-(ii) All the RMD scripts mention the input data files required and the output data files generated, which are also uploaded.
+Notes:
+
+* For more details on the project, refer to the [Presentation Deck](https://github.com/VishweshS/Gentrification-Study/blob/main/Presentation%20Deck.pptx) and [Report](https://github.com/VishweshS/Gentrification-Study/blob/main/Report.pdf). <br>
+* All the RMD scripts mention the input data files required and the output data files generated, which are also uploaded.
